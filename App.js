@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Newsitems from "./Components/Newsitems";
+import Newsitems from "./Newsitems";
 import "./App.css"
 
 export default class App extends Component {
